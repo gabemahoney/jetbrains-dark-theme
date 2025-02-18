@@ -21,7 +21,7 @@
     "sideBarTitle.foreground": "#bbbbbb",
     "statusBarItem.remoteBackground": "#16825d",
     "statusBarItem.remoteForeground": "#ffffff",
-    "tab.lastPinnedBorder": "#cccccc33",
+    "tab.lastPinnedBorder": "#cccccc33"
   },
   "tokenColors": [
     {
