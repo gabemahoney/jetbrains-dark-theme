@@ -41,6 +41,19 @@
     },
     {
       "scope": [
+        "entity.name.function",
+        "support.function",
+        "support.constant.property-value.misc.css",
+        "entity.name.fragment.graphql",
+        "variable.fragment.graphql"
+      ],
+      "settings": {
+        "foreground": "#E8BF6A",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
         "keyword",
         "keyword.operator.new",
         "variable.language.this",
@@ -105,21 +118,6 @@
     },
     {
       "scope": [
-        "entity.name.function",
-        "support.function",
-        "support.constant.property-value.misc.css",
-        "entity.name.fragment.graphql",
-        "variable.fragment.graphql"
-      ],
-      "settings": {
-        "foreground": "#56a7f3",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
-        "meta.selector.css",
-        "support.function.misc.css",
         "entity.name.tag",
         "keyword.other.doctype.xml",
         "meta.at-rule.header.css",
