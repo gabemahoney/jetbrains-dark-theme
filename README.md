@@ -1,6 +1,6 @@
-# Jetbrains Dark Theme
+# PyCharm Dark Theme for Python
 
-A theme extension for Visual Studio Code based on Webstorm and Intellij IDE from Jetbrains.
+A VS Code theme that mimics Python syntax highlighting in PyCharm. This theme is a fork of [mobalti/jetbrains-dark-theme](https://github.com/mobalti/jetbrains-dark-theme).
 
 **Optional:** For the best experience, use **Jetbrains Mono** font.
 
@@ -36,10 +36,14 @@ https://www.jetbrains.com/lp/mono/
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
-1. Search for `Jetbrains Dark Theme`
+1. Search for `PyCharm Dark Theme for Python`
 1. Click **Install**
 1. Click **Reload**
 
+## Credits
+
+This theme is a fork of [Jetbrains Dark Theme](https://github.com/mobalti/jetbrains-dark-theme) by [Mo Balić](https://github.com/mobalti).
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/mobalti/jetbrains-dark-theme/blob/main/LICENSE.txt) for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) for details.
