@@ -1,12 +1,12 @@
 {
-  "name": "jetbrains-dark-theme",
-  "displayName": "Jetbrains Dark Theme",
-  "description": "A theme extension for Visual Studio Code based on Webstorm and Intellij IDE from Jetbrains.",
-  "version": "3.1.0",
-  "publisher": "MoBalic",
+  "name": "pycharm-dark-theme-for-python",
+  "displayName": "PyCharm Dark Theme for Python",
+  "description": "A theme extension for Visual Studio Code - mimics Python in PyCharm.",
+  "version": "1.0.0",
+  "publisher": "gabemahoney",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mobalti/jetbrains-dark-theme"
+    "url": "https://github.com/gabemahoney/jetbrains-dark-theme"
   },
   "engines": {
     "vscode": "^1.70.0"
@@ -17,10 +17,8 @@
     "jetbrains",
     "webstorm",
     "intellij",
-    "Darcula",
-    "webstorm dark theme",
-    "intellij dark theme",
-    "Jetbrains Darcula"
+    "python",
+    "pycharm"
   ],
   "categories": [
     "Themes"
@@ -28,10 +26,11 @@
   "contributes": {
     "themes": [
       {
-        "label": "Jetbrains Dark Theme",
+        "label": "PyCharm Dark Theme for Python",
         "uiTheme": "vs-dark",
-        "path": "./themes/Jetbrains Dark Theme-color-theme.json"
+        "path": "./themes/PyCharm Dark Theme for Python-color-theme.json"
       }
     ]
   },
-  "icon": "icon.png"}
+  "icon": "icon.png"
+}
