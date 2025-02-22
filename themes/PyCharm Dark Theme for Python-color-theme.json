@@ -543,7 +543,9 @@
     },
     {
       "scope": [
-        "support.type.python"
+        "support.type.python",
+        "support.type.exception.python",
+        "support.function.builtin.python"
       ],
       "settings": {
         "foreground": "#8888c5",
@@ -561,15 +563,7 @@
     },
     {
       "scope": [
-        "variable.language.special.self.python"
-      ],
-      "settings": {
-        "foreground": "#94558d",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
+        "variable.language.special.self.python",
         "variable.parameter.function.language.special.self.python"
       ],
       "settings": {
@@ -579,15 +573,7 @@
     },
     {
       "scope": [
-        "variable.parameter.function.language.python"
-      ],
-      "settings": {
-        "foreground": "#A9B7C6",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
+        "variable.parameter.function.language.python",
         "meta.function-call.arguments.python"
       ],
       "settings": {
@@ -607,6 +593,7 @@
     },
     {
       "scope": [
+        "meta.function-call.python",
         "meta.function-call.generic.python"
       ],
       "settings": {
@@ -635,8 +622,15 @@
     },
     {
       "scope": [
-        "meta.function-call.python",
-        "meta.function-call.generic.python",
+        "constant.character.format.placeholder.other.python"
+      ],
+      "settings": {
+        "foreground": "#CC7832",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
         "punctuation.definition.arguments.begin.python",
         "punctuation.definition.arguments.end.python",
         "punctuation.definition.list.end.python",
@@ -654,24 +648,6 @@
       ],
       "settings": {
         "foreground": "#57a8f5",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
-        "support.function.builtin.python"
-      ],
-      "settings": {
-        "foreground": "#8888c5",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
-        "support.type.exception.python"
-      ],
-      "settings": {
-        "foreground": "#8484c0",
         "fontStyle": ""
       }
     }
