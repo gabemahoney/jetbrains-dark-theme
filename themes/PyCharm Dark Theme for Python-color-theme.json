@@ -543,9 +543,7 @@
     },
     {
       "scope": [
-        "support.type.python",
-        "meta.function-call.python - punctuation.definition.arguments",
-        "meta.function-call.generic.python - punctuation.definition.arguments"
+        "support.type.python"
       ],
       "settings": {
         "foreground": "#8888c5",
@@ -558,6 +556,15 @@
       ],
       "settings": {
         "foreground": "#b200b2",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "variable.language.special.self.python"
+      ],
+      "settings": {
+        "foreground": "#94558d",
         "fontStyle": ""
       }
     },
@@ -618,7 +625,8 @@
     },
     {
       "scope": [
-        "string.quoted.single.python"
+        "string.quoted.single.python",
+        "storage.type.string.python"
       ],
       "settings": {
         "foreground": "#6aab73",
@@ -628,7 +636,30 @@
     {
       "scope": [
         "meta.function-call.python",
-        "meta.function-call.generic.python"
+        "meta.function-call.generic.python",
+        "punctuation.definition.arguments.begin.python",
+        "punctuation.definition.arguments.end.python",
+        "punctuation.definition.list.end.python",
+        "punctuation.definition.list.begin.python",
+        "support.variable.magic.python"
+      ],
+      "settings": {
+        "foreground": "#bcbec4",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function.python"
+      ],
+      "settings": {
+        "foreground": "#57a8f5",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "support.function.builtin.python"
       ],
       "settings": {
         "foreground": "#8888c5",
@@ -637,11 +668,11 @@
     },
     {
       "scope": [
-        "punctuation.definition.arguments.begin.python",
-        "punctuation.definition.arguments.end.python"
+        "support.type.exception.python"
       ],
       "settings": {
-        "foreground": "#bcbec4"
+        "foreground": "#8484c0",
+        "fontStyle": ""
       }
     }
   ]
