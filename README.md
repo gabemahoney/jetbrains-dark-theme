@@ -20,7 +20,7 @@ https://www.jetbrains.com/lp/mono/
 
 ## Open Bugs
 
-- [Windsurf: Theme colors not updating in real-time](https://help.codeium.com/hc/en-us/requests/11567) - Parenthesis displaying incorrect colors in Windsurf.
+- [Windsurf: Theme colors not updating in real-time](https://help.codeium.com/hc/en-us/requests/11567) - Parentheses displaying incorrect colors in Windsurf.
 
 ## Credits
 
