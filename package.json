@@ -2,7 +2,7 @@
   "name": "pycharm-dark-theme-for-python",
   "displayName": "PyCharm Dark Theme for Python",
   "description": "A theme extension for Visual Studio Code - mimics Python in PyCharm. Fork of mobalti/jetbrains-dark-theme with PyCharm Python syntax color scheme.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "gabemahoney",
   "repository": {
     "type": "git",

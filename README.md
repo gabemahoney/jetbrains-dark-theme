@@ -18,6 +18,10 @@ https://www.jetbrains.com/lp/mono/
 1. Click **Install**
 1. Click **Reload**
 
+## Open Bugs
+
+- [Windsurf: Theme colors not updating in real-time](https://help.codeium.com/hc/en-us/requests/11567) - Parenthesis displaying incorrect colors in Windsurf.
+
 ## Credits
 
 This theme is a fork of [Jetbrains Dark Theme](https://github.com/mobalti/jetbrains-dark-theme) by [Mo Balić](https://github.com/mobalti).
